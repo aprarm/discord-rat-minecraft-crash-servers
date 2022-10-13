@@ -1,2 +1,2 @@
-pyarmor pack -e " --onefile" фаил.py
+pyarmor pack -e " --onefile" file.py
 pause
